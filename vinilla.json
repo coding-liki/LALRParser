@@ -1,0 +1,9 @@
+{
+  "name": "LALRParser",
+  "vendor": "CodingLiki",
+  "description": "Парсер разбирает список токенов с помощь таблицы в ast дерево",
+  "repo_url": "",
+  "depends_on": [
+    "CodingLiki/GrammarParser"
+  ]
+}
